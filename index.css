@@ -79,6 +79,8 @@ a:link {
     text-align: center;
     padding: 2em;
   }
+  body {
+    background-image: url(bg-intro-mobile.png);
   .intro,
   .right {
     width: 100%;
