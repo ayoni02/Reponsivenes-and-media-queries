@@ -81,6 +81,7 @@ a:link {
   }
   body {
     background-image: url(bg-intro-mobile.png);
+  }
   .intro,
   .right {
     width: 100%;
